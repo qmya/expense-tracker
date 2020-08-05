@@ -4,7 +4,7 @@ import Balance from './components/Balance.js';
 import IncomeExpenses from './components/IncomeExpenses.js';
 import TransactionList from './components/TransactionList.js';
 import AddTransaction from './components/AddTransaction.js';
-import GlobalProvider from './context/GlobalState';
+import GlobalProvider from './context/GlobalState.js';
 
 
 import './App.css';
